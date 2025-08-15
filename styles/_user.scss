@@ -1,0 +1,40 @@
+// 
+// user.scss
+// Use this to write your custom SCSS
+//
+
+
+.cursor{
+  cursor: pointer;
+}
+.n-a{
+  cursor: not-allowed;
+}
+
+.pan-panel {
+  alignItems: 'center';
+  justifyContent: 'center';
+  border: solid 1px #ddd;
+  backgroundColor: #f0f0f0;
+};
+
+.mycard{
+  color: white;
+  //padding: 10px;
+}
+
+.mycard-body{
+
+}
+.mycard-header {
+  font-size: 16px;
+  padding: 10px;
+};
+
+
+.mycard-table-body {
+
+  font-size: 12px;
+  max-height: 400px;
+  overflow-y: scroll;
+}
