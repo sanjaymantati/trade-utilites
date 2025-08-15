@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
-    "deploy": "gh-pages -d out",
+    "deploy": "gh-pages -d out -r https://github.com/sanjaymantati/trade-utilites.git",
     "start": "next start",
     "lint": "next lint"
   },
