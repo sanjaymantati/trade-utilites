@@ -1,29 +1,27 @@
-# README #
+# Deploy Next.js to GitHub Pages
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is a Next.js template which can be deployed to GitHub Pages as a static site.
 
-### What is this repository for? ###
+## Deploying to GitHub Pages
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+1.  Create a new public GitHub repository
+2.  Push the starter code to the `main` branch
+3.  On GitHub, go to **Settings** > **Pages** > **Source**, and choose **GitHub Actions** as the source
+4.  Make a commit and push it to see the changes on GitHub Pages
 
-### How do I get set up? ###
+Congratulations! You should have a URL like:
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+```bash
+https://<github-user-name>.github.io/<github-project-name>/
+```
 
-### Contribution guidelines ###
+For more information, see our [deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying/static-exports).
 
-* Writing tests
-* Code review
-* Other guidelines
+## Learn More
 
-### Who do I talk to? ###
+To learn more about Next.js, take a look at the following resources:
 
-* Repo owner or admin
-* Other community or team contact
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
