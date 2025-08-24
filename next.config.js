@@ -3,8 +3,8 @@
 
 const nextConfig = {
   output: 'export',
-  basePath: process.env.PAGES_BASE_PATH,
-  reactStrictMode: true,
+  basePath: "/trade-utilites",
+  reactStrictMode: true
 
 };
 
